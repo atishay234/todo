@@ -1,0 +1,32 @@
+.TodoForm {
+  margin: 5% 10%;
+}
+
+.submit-btn {
+  width: 100%;
+}
+
+.handle-btn {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.handle-btn button {
+  width: 48%;
+}
+
+.date-status-group {
+  display: flex;
+  flex-direction: row;
+}
+
+.due-date {
+  margin-right: 200px;
+}
+
+.due-date input {
+  padding: 5px;
+  border: 1px solid rgb(217, 217, 217);
+  border-radius: 5px;
+}
